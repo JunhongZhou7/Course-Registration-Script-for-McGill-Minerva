@@ -1,8 +1,12 @@
 #Mcgill Course Registration Script 
-
 #Description 
     -This program automatically tries to register for the CRNs provided for the user.
 
+For non-programmers:
+#Just download the .exe file and run it. 
+
+    
+For people with coding background:
 #How-to
     -Having the prerequisite python libraries / softwares downloaded (see more below)
     -Log into minerva and go to the page of quick add/drop courses in remote-debugging mode on Chrome (instruction below)
